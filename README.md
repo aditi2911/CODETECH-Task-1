@@ -37,6 +37,11 @@ Vanilla Javascript: This javascript runa directly in the browser.
 ![Screenshot (73)](https://github.com/aditi2911/CODETECH-Task-1/assets/171339642/60841aef-19de-42c8-9f6b-2cbd2fb31846)
 
 
+![WhatsApp Image 2024-06-08 at 12 57 51_221605a9](https://github.com/aditi2911/CODETECH-Task-1/assets/171339642/ec70855a-28e4-4af4-b567-bf1c63d4495d)
+
+
+
+
 
 
 
